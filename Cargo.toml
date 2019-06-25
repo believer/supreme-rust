@@ -1,0 +1,8 @@
+[package]
+name = "supreme"
+version = "0.1.0"
+authors = ["rickard <rln@iteam.se>", "jimmy <jjd@iteam.se>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
